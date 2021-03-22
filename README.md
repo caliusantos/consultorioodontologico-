@@ -1,8 +1,8 @@
 # Projeto
 
-# Utilizei React.js nesse repositório onde o que mais destacou aí foi a criatividade das rotas onde interligava
+ Utilizei React.js nesse repositório onde o que mais destacou aí foi a criatividade das rotas onde interligava
   
- ## A linguagem utilizada foi o Java script sendo estilizado em css
+ A linguagem utilizada foi o Java script sendo estilizado em css
  
  ## As páginas são:
  
